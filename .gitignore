@@ -1,0 +1,5 @@
+data/
+*.npz
+!geo_split.npz
+results/*.log
+__pycache__/
